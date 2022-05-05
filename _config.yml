@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://dbklik.github.io
+title: Yui Project
+subtitle: ...thing I don't want to forget !
+author: Yui
 simple_search: https://www.google.com/search
 description:
 
